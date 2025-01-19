@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
+<h1 align="center">Hi, I'm Yusuf</h1>
 <h3 align="center">A Software Developer From Istanbul, Turkiye</h3>
 
 - 👨‍💻 Portfolio: [https://yusufkaya.vercel.app](https://yusufkaya.vercel.app)
