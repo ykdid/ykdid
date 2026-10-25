@@ -20,8 +20,8 @@ Currently focused on AI engineering.
 
 ### Now
 
-- 🎓 &nbsp;MSc in Information Technologies, Yıldız Technical University
-- 🤖 &nbsp;Learning AI engineering: Python, PyTorch, LLMs, RAG
+- 🎓 &nbsp;MSc in Computer Engineering, Yıldız Technical University
+- 🤖 &nbsp;Learning AI engineering: Python, ML, NLP, LLMs, RAG
 
 <br>
 
