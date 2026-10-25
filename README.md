@@ -32,7 +32,6 @@ Currently focused on AI engineering.
 
 **Frontend & Mobile**<br>
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="40" />
-&nbsp;<sub>React · React Native</sub>
 
 **Tools**<br>
 <img src="https://skillicons.dev/icons?i=docker,git" height="40" />
